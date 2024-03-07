@@ -1,0 +1,8 @@
+eval_result/
+inference_result/
+result/
+test_data/
+test_out/
+*.pyc
+models/__pycache__/
+.vscode/
